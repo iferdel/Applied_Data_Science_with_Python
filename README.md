@@ -6,9 +6,6 @@ Courses in the Specialization Program:
 
 Introduction to Data Science in Python
 Applied Plotting, Charting & Data Representation in Python
-#Applied Machine Learning in Python
-#Applied Text Mining in Python
-#Applied Social Network Analysis in Python
 
 Assignments By: Ignacio Fernández
 2021
