@@ -4,7 +4,7 @@ Each folder corresponds to one of the courses and in each folder you can find a 
 
 Courses in the Specialization Program:
 
-Introduction to Data Science in Python
+Introduction to Data Science in Python 
 Applied Plotting, Charting & Data Representation in Python
 
 Assignments By: Ignacio Fernández
